@@ -126,7 +126,7 @@ https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_ter
 #### Serial Terminal Interface During Operation
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bRHG1vPK/Gemini-Generated-Image-453n29453n29453n.png" width="350">
+  <img src="https://i.ibb.co.com/nMQFkDcD/unnamed.jpg" width="350">
 </p>
 
 
